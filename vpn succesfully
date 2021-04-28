@@ -1,0 +1,6 @@
+nano /etc/dhcp/dhclient.conf
+leafpad /etc/resolv.conf
+8.8.8.8 8.8.4.4
+
+185.224.1.104 - normal
+openvpn vpnbook-us1-udp25000.ovpn
